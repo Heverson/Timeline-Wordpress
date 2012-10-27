@@ -1,0 +1,43 @@
+#f-content_form{float: left; margin: 20px auto}
+#form_create{font-size: 13px; display: table-cell; width: 400px; }
+.f-btn{float: left;}
+.f-labels{padding-bottom: 14px;float: left;}
+.f-spans{float:left;}
+.f-inputs{float:left; display: table-cell;}
+.grid-600{width:600px;  display: table-cell; } 
+.grid-400{width:400px;  display: table-cell; } 
+.grid-300{width:300px;  display: table-cell; } 
+.grid-200{width:200px;  display: table-cell; } 
+.grid-100{width:100px;  display: table-cell; } 
+
+
+.f-msn{font-size: 13px; padding: 13px; text-align: center; margin: 13px auto; border-radius: 0.8em; border: 1px solid; }
+.msn-sucess{background: #DFF0D8; color:#468847; border-color:#D6E9C6}
+
+.label{padding:3px; color:#fff; text-decoration: none; border-radius: 0.3em;}
+.label-success{background-color: #468847}
+.label-info{background-color: #3A87AD;}
+
+#dates-form{margin: 10px auto;}
+.title-input{font-family:"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",sans-serif; font-size: 14px; line-height: 1.7em}
+
+.inputtext-largex{ padding: 3px 8px; font-size: 1.5em; line-height: 100%; width: 100%; outline: 0; }
+.inputtext-mediun{ padding: 3px 8px; font-size: 1.5em; line-height: 100%; width: 500px; outline: 0; }
+.inputtext-small{ padding: 3px 8px; font-size: 1.5em; line-height: 100%; width: 250px; outline: 0; }
+.inputtext-smallx{ padding: 3px 8px; font-size: 1.5em; line-height: 100%; width: 150px; outline: 0; }
+
+.line{border-bottom: 1px solid #cfcfcf; margin: 10px 0px;}
+.line-3{border-bottom: 3px solid #cfcfcf; margin: 10px 0px;}
+
+#the-list tbody tr td{padding-left: 8px;}
+#the-list .check-column{padding: 9px 0 22px}
+#the-list tr input{margin: 0px 0px 0px 8px}
+
+.ico-date{background: url(wp-admin/images/date-button.gif) no-repeat; width: 13px; height: 13px; margin: 7px; display: table;}
+
+.prettyprint{background: #F7F7F9; border: 1px solid #e1e1e8; padding: 8px; border-radius: 0.5em; font-size: 13px; margin: 10px auto; }
+#media-event{display: table-cell;}
+#media-event .grid-300{display: none; float: left;}
+#midia-library{float: left; width: 300px; display: none;}
+#midia-library td{cursor: pointer}
+#box-asset{margin: 10px; padding: 5px 5px}
